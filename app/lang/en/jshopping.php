@@ -1,0 +1,80 @@
+<?php
+
+return array(
+    /*
+      |--------------------------------------------------------------------------
+      | Pagination Language Lines
+      |--------------------------------------------------------------------------
+      |
+      | The following language lines are used by the paginator library to build
+      | the simple pagination links. You are free to change them to anything
+      | you want to customize your views to better match your application.
+      |
+     */
+    'records_per_page' => 'Records per page',
+    'search' => 'Search',
+    'title' => 'Title',
+    'unit_price' => 'Unit price',
+    'sale' => 'Sale',
+    'units_ln_stock' => 'Units In Stock',
+    'weight' => 'Weight',
+    'featured' => 'Featured',
+    'new' => 'New',
+    'special' => 'Special',
+    'status' => 'Status',
+    'showing' => 'Showing',
+    'to' => 'To',
+    'entries' => 'Entries',
+    'preview' => 'Preview',
+    'next' => 'Next',
+    'add_product' => 'Add Product',
+    'name' => 'Name',
+    'product_name' => 'Product Name',
+    'code' => 'Code',
+    'short_detail' => 'Short detail',
+    'product_setting' => 'Product Setting',
+    'category' => 'Category',
+    'supplier' => 'Supplier',
+    'quantity_per_unit' => 'Quantity Per Unit',
+    'publish' => 'Publish',
+    'featured_product' => 'Featured Product',
+    'new_product' => 'New Product',
+    'spacial_product' => 'Spacial Product',
+    'image_cover' => 'image cover',
+    'select_image' => 'Select Image',
+    'tags' => 'Tags',
+    'detail' => 'Detail',
+    'editor' => 'Editor',
+    'edit_product' => 'Edit Product',
+    'description' => 'Description',
+    'create' => 'Create',
+    'update' => 'Update',
+    'add_sub_category' => 'Add Sub Category',
+    'add_category' => 'Add Category',
+    'title_name' => 'Title Name',
+    'save' => 'Save',
+    'edit_category' => 'Edit Category',
+    'delete_category' => 'Delete Category',
+    'confiem' => 'Confirm',
+    'move_category' => 'Move Category',
+    'change' => 'Change',
+    'remove' => 'Remove',
+    'product_frile_upload' => 'Product Frile Upload',
+    'image_galley' => 'Image Galley',
+    'add_sub' => 'Add Sub ',
+    'spec' => 'Spec',
+    'reviews' => 'Reviews',
+    'edit_spec' => 'Edit Spec',
+    'add_spec' => 'Add Spec',
+    'product_gallery' => 'Product Gallery',
+    'company_name' => 'Company Name',
+    'contact_name' => 'Contac tName',
+    'contact_title' => 'Contact Title',
+    'address' => 'Address',
+    'email' => 'Email',
+    'phone' => 'Phone',
+    'fax' => 'Fax',
+    'recommended' => 'Recommended items',
+    'related'=>'Related items',
+    'taxcode' => 'Tax'
+);
